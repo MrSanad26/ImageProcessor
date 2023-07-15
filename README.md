@@ -34,9 +34,13 @@
 
 تم تعريف دالة show_result التي تعرض الصورة المعالجة في نافذة جديدة من خلال انشاء نافذة اخرا وعرض النتيجة عليها.
 
-صورة توضيحية لتصميم:
+فديو توضيحية للبرنامج:
 
-![image](https://github.com/MrSanad26/ImageProcessor/assets/98082864/60fff6e9-835f-42e5-9bd8-7c4a450347d9)
+
+
+
+https://github.com/MrSanad26/ImageProcessor/assets/98082864/4fa87e7a-3c33-4557-aa97-3c7953098507
+
 
 
 reset button icon
