@@ -40,15 +40,15 @@
 
 
 reset button icon
-you we find the icon in linkfirst one on the left, color white size 50x50:
+you we find the icon in link first one on the left, color white size 50x50:
 https://icons8.com/icons/set/reset
 
 save button icon
-you we find the icon in linkfirst one on the left, color white size 50x50:
+you we find the icon in link first one on the left, color white size 50x50:
 https://icons8.com/icons/set/save
 
 show ressult button icon
-you we find the icon in linkfirst one on the left, color white size 50x50:
+you we find the icon in link first one on the left, color white size 50x50:
 https://icons8.com/icons/set/show-result
 
 
