@@ -39,14 +39,16 @@
 ![image](https://github.com/MrSanad26/ImageProcessor/assets/98082864/60fff6e9-835f-42e5-9bd8-7c4a450347d9)
 
 
-reset button icon:
-![icons8-reset-50](https://github.com/MrSanad26/ImageProcessor/assets/98082864/36a7d687-f775-403f-b4d7-b73fd0e08c27)
+reset button icon
+you we find the icon in linkfirst one on the left, color white size 50x50:
+https://icons8.com/icons/set/reset
 
-save button icon:
-![icons8-save-button-50](https://github.com/MrSanad26/ImageProcessor/assets/98082864/b6e63b0e-034c-4d14-af60-74d7393194d6)
+save button icon
+you we find the icon in linkfirst one on the left, color white size 50x50:
+https://icons8.com/icons/set/save
 
-show ressult button icon:
-![icons8-show-property-50](https://github.com/MrSanad26/ImageProcessor/assets/98082864/eb0cb826-dc14-4b5a-bb43-a8a686e0f24b)
-
+show ressult button icon
+you we find the icon in linkfirst one on the left, color white size 50x50:
+https://icons8.com/icons/set/show-result
 
 
